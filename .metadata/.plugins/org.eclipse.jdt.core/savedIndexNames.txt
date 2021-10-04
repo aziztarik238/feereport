@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+F:\Java T Point project\feereportproject\feereport\.metadata\.plugins\org.eclipse.jdt.core
